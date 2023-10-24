@@ -1,0 +1,36 @@
+.nav {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  height: 60px;
+  width: 100%;
+  z-index: 1;
+}
+
+.nav_container {
+  width: 97%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav h1 {
+  font-weight: 700;
+  margin: 0;
+  color: red;
+}
+
+.nav a {
+  text-decoration: none;
+}
+
+.nav_black {
+  background-color: black;
+  transition: 0.5s;
+}
+
+.search_icon {
+  width: 20px;
+}

@@ -1,0 +1,9 @@
+.movie_list {
+  color: white;
+  padding: 0 30px;
+}
+
+.movie_list h3 {
+  margin-top: 50px;
+  margin-bottom: 0;
+}
