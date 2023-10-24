@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MovieWeb/static/css/main.362d9fe0.css",
+    "main.js": "/MovieWeb/static/js/main.adf12cae.js",
+    "index.html": "/MovieWeb/index.html",
+    "main.362d9fe0.css.map": "/MovieWeb/static/css/main.362d9fe0.css.map",
+    "main.adf12cae.js.map": "/MovieWeb/static/js/main.adf12cae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.362d9fe0.css",
+    "static/js/main.adf12cae.js"
+  ]
+}
